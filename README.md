@@ -1,1 +1,1 @@
-- [DEMO LINK](https://Maksym845github.io/.../)
+- [DEMO LINK](https://Maksym845.github.io/Kickstarter/)
